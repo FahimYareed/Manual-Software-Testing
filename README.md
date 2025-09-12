@@ -1,1 +1,1 @@
-# Manual-Software-Testing
+# Software-Testing
